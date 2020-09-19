@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+virtuel_sodavandsautomat
+</name>
+</assembly>
+<members>
+<member name="T:virtuel_sodavandsautomat.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.background_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.background_011">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.background_012">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.hus_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_04">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_05">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.mønter_06">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.nøgle_Tegnebræt_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.nøgle_Tegnebræt_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Sodavand_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Sodavand_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Sodavand_03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Sodavand_04">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:virtuel_sodavandsautomat.My.Resources.Resources.Sodavand_05">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
